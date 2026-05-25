@@ -1,2 +1,5 @@
 title: Nichijoism
 description: The intersection of existentialism, nihilism, and surrealism.
+theme: minima
+plugins:
+  - jekyll-feed
