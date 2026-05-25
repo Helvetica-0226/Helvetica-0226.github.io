@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nichijoism"
-date: 2026-05-26
+date: 2026-05-25
 ---
 
 Beginning. Say hello to you.
