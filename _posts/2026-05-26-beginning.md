@@ -2,4 +2,5 @@
 layout: post
 title: "Nichijoism"
 ---
-Beginning
+
+Beginning. Say hello to you.
