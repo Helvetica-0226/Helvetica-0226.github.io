@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-## Posts
+# Posts
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <span>{{ post.date | date_to_string }}</span> » 
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span style="color: #666; margin-right: 10px;">{{ post.date | date: "%Y-%m-%d" }}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
