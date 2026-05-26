@@ -1,4 +1,4 @@
-# Nichijoism (helvetica-0226.github.io)
+# Nichijōism (helvetica-0226.github.io)
 
 日常、実存主義、ニヒリズム、そしてシュルレアリスムが交差する個人ブログ・思考整理ノートです。気軽にご意見いただければ幸いです。
 
